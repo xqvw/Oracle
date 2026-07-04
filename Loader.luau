@@ -1,5 +1,5 @@
 local game_ids = {
-    [10439859858] = true, -- zhd
+    [10442996304] = true, -- zhd
     [10441202632] = true, -- zhs
     [10437018192] = true, -- des hood
 };
